@@ -1,1 +1,1 @@
-# sing_rules
+# sing-rules
