@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "rules": [
+    {
+        "domain": [
+        "mon.snssdk.com",
+        "mon.zijieapi.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "sixloy",       
+        "alipay",
+        "image",
+        "ysdy",
+        "737698",
+        "chj0827",
+        "yzjz"
+      ]      
+    },
+    {
+      "domain_suffix": [
+        ".10010.com",
+        ".12306.cn",
+        ".cmbchina.com",
+        ".ccb.com",
+        ".bbs.binmt.cc",
+        ".gantanhao.vip",
+        ".netease.com",
+        ".acfun.cn",
+        ".acfun.com",
+        ".lanzoup.com",
+        ".189.cn",
+        ".fcbox.com",
+        ".tieba.com",
+        ".taobao.com",
+        ".163.com",
+        ".qlogo.cn",
+        ".qpic.cn",
+        ".video.qq.com"
+      ]
+    },    
+    {
+      "ip_cidr": [
+        "112.65.193.0/24",
+        "182.50.10.0/24",
+        "112.80.180.0/24",
+        "220.196.139.0/24",
+        "222.79.113.40",
+        "8.134.241.67"
+      ]
+    },
+    {
+      "package_name": [
+        "com.tencent.mm",
+        "com.eg.android.AlipayGphone",
+        "com.taobao.taobao",
+        "com.baidu.tieba",
+        "com.ss.android.ugc.aweme",
+        "cn.toside.music.mobile"
+      ]
+    }
+  ]
+}
